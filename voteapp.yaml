@@ -52,7 +52,7 @@ spec:
     spec:
       containers:
       - name: azure-vote-front
-        image: azure-vote-front:v2
+        image: vinodranaveni/azure-vote-front
         resources:
           requests:
             cpu: 100m
